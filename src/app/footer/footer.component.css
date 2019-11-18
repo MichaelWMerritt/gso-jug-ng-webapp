@@ -1,0 +1,18 @@
+nav {
+  font: normal normal normal 14px/1.4em 'libre baskerville',serif;
+  min-height: 92px;
+  background: white;
+}
+
+nav .container {
+  max-width: 965px;
+}
+
+.navbar-text {
+  width: 175px;
+  text-align: center;
+}
+
+.navbar-nav {
+  align-items: center;
+}

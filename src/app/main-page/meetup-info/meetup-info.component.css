@@ -1,0 +1,30 @@
+.meetup-info {
+  height: calc(100vh - 125px);
+}
+
+.jarallax {
+  position: relative;
+  z-index: 0;
+}
+
+.meetup-description-overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(152, 152, 157, 0.9);
+  font: normal normal normal 20px/1.4em 'libre baskerville',serif;
+  color: #fff;
+}
+
+.meetup-description {
+  margin-left: 25%;
+  padding-top: 5%;
+}
+
+.meetup-description h1 {
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+.meetup-description p {
+  margin-top: 1rem;
+}
